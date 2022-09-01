@@ -1,0 +1,2 @@
+# infobasic
+info estudio basico
